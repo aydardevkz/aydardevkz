@@ -14,8 +14,8 @@ Hello! I'm **Aydar Baktiyar**, a passionate **senior Flutter developer** and Pyt
 
 ### 🔧 My Expertise:
 - **Languages**: Dart, Python, JavaScript
-- **Frameworks**: Flutter, Django REST Framework (DRF)
-- **Tools**: Celery, RabbitMQ, Firebase, MinIO
+- **Frameworks**: Flutter, Django REST Framework (DRF), FastApi, Flask
+- **Tools**: Celery, RabbitMQ, Firebase, MinIO, Kafka
 - **Specialties**:
   - Building scalable backend systems
   - Asynchronous task handling
@@ -28,7 +28,7 @@ Hello! I'm **Aydar Baktiyar**, a passionate **senior Flutter developer** and Pyt
 Here's a snapshot of my current stack:
 
 - **Frontend**: Flutter, Dart
-- **Backend**: Python, Django, DRF
+- **Backend**: Python, Django, DRF, FastApi, Flask
 - **Storage**: MinIO, Firebase
 - **Queue Systems**: RabbitMQ, Celery, Kafka
 - **Monitoring**: Loki, Prometheus, Grafana
