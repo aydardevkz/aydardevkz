@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm Rahmet! 👋
+# 🌟 Hi, I'm Aydar Baktiyar! 👋
 
 [![GitHub Followers](https://img.shields.io/github/followers/aydardevkz?label=Follow%20Me&style=social)](https://github.com/aydardevkz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://aydar.kz)
